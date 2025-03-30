@@ -35,4 +35,9 @@ public class DevClassTest
     {
         assertTrue( true );
     }
+
+    public static void main(String[] args) {
+        System.out.println("DevClassTest");
+        // hanifiamdev added this
+    }
 }
