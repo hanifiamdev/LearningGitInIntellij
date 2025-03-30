@@ -12,5 +12,7 @@ public class DevClass
         //Checkin from another-user
         // Change 123456
         System.out.println("DevClass-another-user-789");
+        //Change 12
+        System.out.println( "DevClass-another-user-69" );
     }
 }
